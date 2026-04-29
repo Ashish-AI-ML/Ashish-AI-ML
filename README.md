@@ -8,12 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58A6FF&size=24&center=true&vCenter=true&width=900&lines=Ashish+Chaturvedi;AI+Systems+Engineer;LLMs+%7C+RAG+%7C+Agentic+AI;Building+Production-Grade+AI+Systems;FastAPI+%7C+MLOps+%7C+Scalable+Infrastructure" />
 </p>
 
-<!-- HERO GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
-</p>
-
 ---
 
 <h3 align="center">
