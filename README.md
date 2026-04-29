@@ -4,13 +4,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ashish Chaturvedi</h1>
-<h3 align="center">🚀 AI Engineer | LLM Systems | RAG | Scalable AI Infrastructure</h3>
+---
+
+<h3 align="center">
+⚡ Designing Production-Grade AI Systems  
+🧠 RAG • LLM Evaluation • Agentic Architectures  
+🚀 Built for Scale, Accuracy & Real-World Impact
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Ashish-AI-ML">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Hybrid+RAG+%7C+LLMs+%7C+Agentic+Workflows;FastAPI+%7C+MLOps+%7C+Scalable+Infrastructure;Optimizing+AI+for+Accuracy%2C+Latency+%26+Cost+🚀">
-  </a>
+  <img src="https://img.shields.io/badge/Model_Accuracy-95%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Latency-Optimized-blue" />
+  <img src="https://img.shields.io/badge/Systems-Production_Ready-orange" />
 </p>
+
+---
 
 ---
 
@@ -29,6 +37,18 @@
   - **Evaluation Frameworks + Retrieval Engineering**
 - 🎯 Focus:
   **Scalable AI • Low Latency • High Accuracy • Production Deployment**
+
+---
+
+---
+
+# 🚀 What Sets Me Apart
+
+- I build **production-grade AI systems**, not just demos  
+- I optimize for **accuracy, latency, and cost simultaneously**  
+- I design **multi-LLM fallback architectures** for reliability  
+- I create **evaluation frameworks before scaling systems**  
+- I focus on **real-world deployment, not notebooks**  
 
 ---
 
@@ -122,6 +142,8 @@
 - Production AI System Design
 
 ---
+
+
 
 # 💼 Experience
 
