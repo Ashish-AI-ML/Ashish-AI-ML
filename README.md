@@ -1,4 +1,8 @@
 <!-- HERO SECTION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ashish Chaturvedi</h1>
 <h3 align="center">🚀 AI Engineer | GenAI | LLMs | ML Systems</h3>
 
