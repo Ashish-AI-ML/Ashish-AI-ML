@@ -1,141 +1,95 @@
-# Hi, I'm Ashish Chaturvedi 👋  
+<!-- HERO SECTION -->
+<h1 align="center">Hi 👋, I'm Ashish Chaturvedi</h1>
+<h3 align="center">🚀 AI Engineer | GenAI | LLMs | ML Systems</h3>
 
-### 🚀 AI Engineer | Machine Learning | NLP | Computer Vision | GenAI
-
-📍 India  
-📧 ashishchaturvedi758@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ashish-chaturvedi-0b850b18b/  
-🔗 GitHub: https://github.com/Ashish-AI-ML  
+<p align="center">
+  <a href="https://github.com/Ashish-AI-ML">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Systems+that+Solve+Real+Problems;LLMs+%7C+LangChain+%7C+RAG+%7C+Agents;FastAPI+%7C+MLOps+%7C+Scalable+AI;Turning+Ideas+into+Impact+🚀">
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I am a Machine Learning Engineer with hands-on experience designing, training, and deploying scalable AI systems across NLP, Computer Vision, healthcare analytics, and multimodal document intelligence.
+- 🤖 AI Engineer specializing in **LLMs, GenAI, NLP, and ML Systems**
+- 📈 Delivered:
+  - **45% efficiency improvement**
+  - **40% latency reduction**
+  - Production-ready AI systems
+- ⚙️ Experience with **LangChain, Multi-Agent Systems, MCP Servers, FastAPI**
+- 🎯 Focus: **Scalable AI, Automation, Real-world Impact**
 
-I focus on:
-- Building production-ready ML pipelines
-- Designing LLM-powered systems
-- Optimizing model performance and evaluation
-- Converting ambiguous business problems into measurable AI outcomes
+---
 
-I enjoy building systems that are not just accurate — but scalable and deployable.
+## 🚀 Featured Projects (HIGH IMPACT)
+
+### 🔹 Multi-Agent AI System (MCP Server)
+- Built scalable AI agents for **external data retrieval + reasoning**
+- Reduced manual effort by **40%**
+- Tech: `LangChain | MCP | FastAPI`
+
+### 🔹 ATS Resume Analyzer
+- ML-powered resume scoring system (better than LLM baseline)
+- Improved screening efficiency by **30%**
+- Tech: `ML | NLP | Python`
+
+### 🔹 Research Paper AI Assistant
+- Summarizes + paraphrases research papers using LLMs
+- Maintains **context accuracy with minimal information loss**
+- Tech: `OpenAI | LangChain | NLP`
+
+👉 More projects: https://github.com/Ashish-AI-ML
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
-- Python
-- C++
-- SQL
-
-### 🤖 Machine Learning & AI
-- Scikit-learn
-- TensorFlow
-- Keras
-- Feature Engineering
-- Model Evaluation
-- Hyperparameter Tuning
-- Statistical Analysis
-
-### 🧾 NLP
-- Text Preprocessing
-- TF-IDF / Vectorization
-- Classification Pipelines
-- LLM Fundamentals
-
-### 👁 Computer Vision
-- CNNs
-- Image Classification
-- Object Detection (YOLO concepts)
-
-### ⚙ Tools & Deployment
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- API-based ML Services
-- Automation Pipelines
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Multi-Modal Document Intelligence System
-Designed a multimodal AI system integrating NLP and computer vision to extract and analyze structured and unstructured document data.
-
-- Reduced manual processing effort by 60%
-- Improved extraction accuracy by 35% over rule-based baselines
-- Built scalable AI pipeline architecture
-
-🔗 Repository:  
-https://github.com/Ashish-AI-ML/Multi-Modal_Document_Intelligence_System  
-
----
-
-### 🔹 Spam Message Classification System
-Built an NLP-based spam detection model using real-world SMS data.
-
-- Processed 5,500+ SMS messages
-- Achieved 98%+ accuracy
-- High precision and recall on spam class
-
-🔗 Repository:  
-https://github.com/Ashish-AI-ML/Spam-Detector  
-
----
-
-### 🔹 MNIST Digit Recognition
-Developed a dense neural network model for digit classification.
-
-- Achieved 96.4% accuracy
-- Applied regularization and tuning techniques
-- Focused on generalization without CNNs
-
-🔗 Repository:  
-https://github.com/Ashish-AI-ML/Digit_Recognigation_MNIST  
+**Languages:** Python, SQL, C++  
+**AI/ML:** TensorFlow, Scikit-learn, NLP, LLMs  
+**GenAI:** LangChain, OpenAI, HuggingFace  
+**Backend:** FastAPI, REST APIs  
+**MLOps:** Docker, Git, CI/CD  
+**Tools:** Jupyter, Power BI, Tableau  
 
 ---
 
 ## 💼 Experience
 
-### AI/ML Intern — Nullclass
-- Developing a real-time GenAI-based customer support bot
-- Working on NLP pipelines and API integration
-- Exposure to deployment-ready AI systems
+### 🧪 AI Engineer Intern
+- Built **LLM-powered automation systems**
+- Designed **multi-agent architectures**
+- Delivered production-level APIs
+
+### 📊 Data Science Intern
+- Developed ML solutions for **real-world datasets**
+- Built **ATS resume system**
+- Automated pipelines → **40% efficiency boost**
 
 ---
 
-## 📄 Research & Publication
+## 🎓 Education
 
-Published review paper:  
-**"Efficient Object Detection and Categorization with YOLO Framework"**  
-IRJMETS — January 2025  
+- 🎓 M.Sc Computer Science (Ongoing)  
+- 🎓 B.Sc Computer Science  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-AI-ML&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashish-AI-ML&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-AI-ML&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🌐 Connect With Me
 
-- Building LLM-powered applications
-- Designing scalable AI architectures
-- Transitioning ML projects into production systems
-<!--
-**Ashish-AI-ML/Ashish-AI-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 LinkedIn: https://www.linkedin.com/in/ashish-chaturvedi-0b850b18b/
+- 💻 GitHub: https://github.com/Ashish-AI-ML
+- 🌐 Portfolio: https://copy-of-ashish-chaturved-kfm3q3n.gamma.site/
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *If you find my work interesting, consider starring my repositories!*
