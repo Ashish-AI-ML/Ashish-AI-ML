@@ -1,9 +1,16 @@
-<!-- HERO SECTION -->
+<!-- MATRIX BACKGROUND -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/Ashish-AI-ML)
+
+<!-- TYPING HERO -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58A6FF&size=24&center=true&vCenter=true&width=900&lines=Ashish+Chaturvedi;AI+Systems+Engineer;LLMs+%7C+RAG+%7C+Agentic+AI;Building+Production-Grade+AI+Systems;FastAPI+%7C+MLOps+%7C+Scalable+Infrastructure" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashish Chaturvedi</h1>
+<!-- HERO GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
+</p>
+
 ---
 
 <h3 align="center">
@@ -13,7 +20,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Model_Accuracy-95%25-brightgreen" />
+  <img src="https://img.shields.io/badge/Accuracy-95%25-brightgreen" />
   <img src="https://img.shields.io/badge/Latency-Optimized-blue" />
   <img src="https://img.shields.io/badge/Systems-Production_Ready-orange" />
 </p>
