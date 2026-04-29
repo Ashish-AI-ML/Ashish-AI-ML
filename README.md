@@ -4,171 +4,159 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ashish Chaturvedi</h1>
-<h3 align="center">🚀 AI Engineer | GenAI | LLMs | ML Systems</h3>
+<h3 align="center">🚀 AI Engineer | LLM Systems | RAG | Scalable AI Infrastructure</h3>
 
 <p align="center">
   <a href="https://github.com/Ashish-AI-ML">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI+Systems+that+Solve+Real+Problems;LLMs+%7C+LangChain+%7C+RAG+%7C+Agents;FastAPI+%7C+MLOps+%7C+Scalable+AI;Turning+Ideas+into+Impact+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Hybrid+RAG+%7C+LLMs+%7C+Agentic+Workflows;FastAPI+%7C+MLOps+%7C+Scalable+Infrastructure;Optimizing+AI+for+Accuracy%2C+Latency+%26+Cost+🚀">
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-- 🤖 AI Engineer specializing in **LLMs, GenAI, NLP, and ML Systems**
-- 📈 Delivered:
-  - **45% efficiency improvement**
-  - **40% latency reduction**
-  - Production-ready AI systems
-- ⚙️ Experience with **LangChain, Multi-Agent Systems, MCP Servers, FastAPI**
-- 🎯 Focus: **Scalable AI, Automation, Real-world Impact**
+🚀 AI Engineer focused on **real-world, production-grade AI systems**
 
----
-
-## 🚀 Featured Projects (HIGH IMPACT)
-
-### 🔹 Multi-Agent AI System (MCP Server)
-- Built scalable AI agents for **external data retrieval + reasoning**
-- Reduced manual effort by **40%**
-- Tech: `LangChain | MCP | FastAPI`
-
-### 🔹 ATS Resume Analyzer
-- ML-powered resume scoring system (better than LLM baseline)
-- Improved screening efficiency by **30%**
-- Tech: `ML | NLP | Python`
-
-### 🔹 Research Paper AI Assistant
-- Summarizes + paraphrases research papers using LLMs
-- Maintains **context accuracy with minimal information loss**
-- Tech: `OpenAI | LangChain | NLP`
-
-👉 More projects: https://github.com/Ashish-AI-ML
+- 🔥 Built **Hybrid RAG pipelines, LLM systems, and adaptive ML engines**
+- 📊 Proven impact:
+  - **70% reduction** in manual effort  
+  - **60% faster AI workflows**  
+  - **95%+ system reliability & accuracy**
+- ⚙️ Expertise in:
+  - **LLMs, RAG, LangChain, LangGraph**
+  - **Multi-Agent Systems & MCP Servers**
+  - **Evaluation Frameworks + Retrieval Engineering**
+- 🎯 Focus:
+  **Scalable AI • Low Latency • High Accuracy • Production Deployment**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Projects (PRODUCTION-GRADE SYSTEMS)
 
-**Languages:** Python, SQL, C++  
-**AI/ML:** TensorFlow, Scikit-learn, NLP, LLMs  
-**GenAI:** LangChain, OpenAI, HuggingFace  
-**Backend:** FastAPI, REST APIs  
-**MLOps:** Docker, Git, CI/CD  
-**Tools:** Jupyter, Power BI, Tableau  
+## 🔥 Meeting Insight Agent (Live AI System)
+**AI-powered meeting intelligence platform**
 
----
+- 🎯 Reduced manual review time by **70%**
+- ⚡ Real-time transcription + summaries + action items
+- 🧠 Built **4-layer LLM fallback system** (OpenAI + Groq + Gemini + Rules)
+- 📉 Reduced API cost + improved uptime by **95%**
+- 🏗 Production stack with monitoring & observability
 
----
+**Tech:** `FastAPI | Whisper | GPT-4o-mini | Groq | Playwright | Prometheus`
 
-# 🛠 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80%" />
-</p>
-
-## 💻 Languages & Core Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
-</p>
-
-- Python, C++, Java, SQL  
-- Object-Oriented Programming (OOP)
+👉 https://github.com/Ashish-AI-ML/Meeting-insight-agent
 
 ---
 
-## 🤖 GenAI & Agentic Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n" />
-</p>
+## 🧠 HybridRAG-Bench (Advanced RAG Evaluation System)
 
-- LLMs, RAG, Prompt Engineering  
-- Multi-Agent Architectures, MCP Servers  
-- LLM Evaluation Metrics & Orchestration  
+**Next-gen RAG benchmarking + optimization system**
 
----
+- 🔍 Hybrid Retrieval:
+  - **BM25 + Vector Search + RRF + Cross-Encoder**
+- 📈 Improved retrieval precision by **35%**
+- 🧪 Built **6-metric evaluation framework**:
+  - Recall@K, MRR, NDCG, Faithfulness, Latency, Cost
+- ⚡ Reduced model testing time by **60%**
 
-## 🧠 Machine Learning & Deep Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge" />
-</p>
+**Tech:** `Qdrant | FastAPI | SentenceTransformers | OpenAI`
 
-- NLP, Computer Vision, Neural Networks  
-- CNNs, Feature Engineering, Hyperparameter Tuning  
-- Regression, Decision Trees, Random Forest, Boosting  
+👉 https://github.com/Ashish-AI-ML/HybridRAG-Bench
 
 ---
 
-## ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sklearn,mongodb" />
-  <img src="https://img.shields.io/badge/SentenceTransformers-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" />
-</p>
+## ⚡ AI Adaptive Diagnostic Engine
 
-- FastAPI, Scikit-learn, TensorFlow, PyTorch, Keras  
-- NLTK, Sentence-Transformers  
-- SQLAlchemy, Alembic, Pydantic  
-- Vector DB (Qdrant), BM25, RRF, Cross-Encoder  
+**ML + LLM-powered adaptive testing system**
 
----
+- 🧠 Implemented **IRT (3PL model)** for intelligent scoring
+- ⏱ Reduced assessment time by **50%**
+- 🎯 Improved evaluation fairness by **40%**
+- 📊 Generated **personalized study plans using LLMs**
 
-## 🚀 Deployment & MLOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,aws,azure" />
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge" />
-</p>
+**Tech:** `FastAPI | MongoDB | GPT-4o-mini | Pytest`
 
-- Docker, REST APIs, Uvicorn  
-- CI/CD, Pytest, Monitoring (Prometheus)  
-- OpenTelemetry, Circuit Breakers  
-- AWS, Azure, IBM Cloud  
-- Scalable AI Systems  
+👉 https://github.com/Ashish-AI-ML/AI-Driven-Adaptive-Diagnostic-Engine
 
 ---
 
-## 🧪 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab" />
-</p>
+# 🧠 Core Expertise
 
-- Jupyter, Google Colab  
-- Experimentation & Prototyping  
+### 🤖 LLM & GenAI Systems
+- LLM Applications (OpenAI, Groq, Gemini)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering & Optimization
+- Multi-Agent Architectures (MCP)
+- LLM Evaluation & Benchmarking
 
 ---
 
-## 💼 Experience
+### 🔍 Retrieval & Search Engineering
+- Hybrid Search (BM25 + Vector DB)
+- Re-ranking (Cross-Encoder, RRF)
+- Vector Databases: Qdrant, Pinecone, ChromaDB
+- Embeddings & Semantic Search
 
-### 🧪 AI Engineer Intern
+---
+
+### ⚙️ Backend & AI Infrastructure
+- FastAPI (Async APIs, Production Systems)
+- REST APIs + Microservices
+- Circuit Breakers + Fallback Systems
+- OpenTelemetry + Prometheus Monitoring
+
+---
+
+### 🧠 Machine Learning
+- NLP, Deep Learning, Computer Vision
+- XGBoost, LightGBM, Neural Networks
+- Feature Engineering & Optimization
+
+---
+
+### 🚀 MLOps & Deployment
+- Docker, CI/CD Pipelines
+- AWS Cloud Deployment
+- Model Monitoring & Scaling
+- Production AI System Design
+
+---
+
+# 💼 Experience
+
+### 🧪 Generative AI Intern — NullClass
 - Built **LLM-powered automation systems**
-- Designed **multi-agent architectures**
-- Delivered production-level APIs
-
-### 📊 Data Science Intern
-- Developed ML solutions for **real-world datasets**
-- Built **ATS resume system**
-- Automated pipelines → **40% efficiency boost**
+- Developed **Hybrid RAG pipelines & evaluation systems**
+- Improved latency, scalability & deployment readiness
+- Worked on real-time AI workflows
 
 ---
 
-## 🎓 Education
-
-- 🎓 M.Sc Computer Science (Ongoing)  
-- 🎓 B.Sc Computer Science  
+### 📊 Data Science Intern — Unified Mentor
+- Built **predictive ML models for real datasets**
+- Performed **EDA, feature engineering & tuning**
+- Delivered analytics dashboards & insights systems
 
 ---
 
-## 📊 GitHub Stats
+# 🎓 Education
+
+🎓 M.Tech Computer Science (Ongoing)  
+🎓 B.E. Computer Science  
+
+---
+
+# 🏆 Certifications
+
+- ✅ Anthropic — Model Context Protocol (MCP)
+- ✅ Neo4j — GraphRAG & Knowledge Graphs
+- ✅ Cisco — AI & ML + Python
+- 📄 Published Research Paper (YOLO-based Object Detection)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashish-AI-ML&show_icons=true&theme=tokyonight"/>
@@ -177,7 +165,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ashish-chaturvedi-0b850b18b/
 - 💻 GitHub: https://github.com/Ashish-AI-ML
@@ -185,4 +173,4 @@
 
 ---
 
-⭐ *If you find my work interesting, consider starring my repositories!*
+⭐ *If you're building AI systems or hiring for GenAI roles, let's connect.*
